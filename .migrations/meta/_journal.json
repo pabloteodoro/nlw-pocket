@@ -8,6 +8,13 @@
       "when": 1726332225507,
       "tag": "0000_high_zemo",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1726332747465,
+      "tag": "0001_chubby_silverclaw",
+      "breakpoints": true
     }
   ]
 }
